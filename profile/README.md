@@ -12,7 +12,8 @@ The Transatlantic Forum for Education and Diplomacy (TFED) is committed to devel
 TFED is actively involved in providing enriching opportunities for current university students. One such initiative is the UNC Literature and Diplomacy Study Abroad program, held annually at King’s College London. Undergraduate and graduate students from all universities are encouraged to apply, though seating is limited.
 
 In addition, TFED offers travel scholarships every summer for students attending the UNC Literature and Diplomacy Study Abroad program at King’s College London. These scholarships aim to support students in their academic pursuits and global engagement.
-Purpose of the GitHub Organization
+
+### Purpose of the GitHub Organization
 
 Our GitHub organization serves as a central repository for transcriptions and translations of texts related to our mission. We leverage the power of technology, specifically EVT, to visualize and present these texts in an engaging and educational manner. EVT enhances the learning experience, making information more accessible and promoting a deeper understanding of cultural, diplomatic, and literary topics.
 
