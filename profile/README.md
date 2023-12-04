@@ -30,9 +30,9 @@ In addition to utilizing EVT, we have developed our own customized version to be
 
 We welcome contributions from individuals interested in our mission. Whether you are passionate about transatlantic relations, cultural literacy, or technology-driven education, there are various ways to contribute:
 
-    **Text Transcriptions:** Contribute transcriptions of texts related to our focus areas.
-    **Translations:** Provide translations of texts to facilitate a broader audience reach.
-    **EVT Development:** Contribute to the development of EVT or provide feedback on our customized version.
-    **Documentation:** Help improve and maintain documentation for both contributors and users.
+- **Text Transcriptions:** Contribute transcriptions of texts related to our focus areas.
+- **Translations:** Provide translations of texts to facilitate a broader audience reach.
+- **EVT Development:** Contribute to the development of EVT or provide feedback on our customized version.
+- **Documentation:** Help improve and maintain documentation for both contributors and users.
 
 Please refer to our Contribution Guidelines for detailed information on how to contribute.
